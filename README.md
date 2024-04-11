@@ -66,14 +66,16 @@ This section provides a summary of the topics learned throughout the labs.
 
 ## References
 
-A list of references used in the tutorials can be found here.
+- [1] [PyTorch Documentation](https://pytorch.org/docs/stable/index.html): Official documentation for PyTorch.
+- [2] [Machine Learning Knowledge](https://machinelearningknowledge.ai/): A website providing resources and knowledge about machine learning.
+- [3] [Miniconda Documentation](https://docs.conda.io/en/latest/miniconda.html): Official documentation for Miniconda.
 
 ## Additional Resources
 
-- [Miniconda Documentation](https://docs.conda.io/en/latest/miniconda.html): Official documentation for Miniconda.
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html): Official documentation for PyTorch.
+- [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): Visual tutorials for Neural Networks & Maths.
 - [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html): A beginner-friendly tutorial on deep learning with PyTorch.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/): Online book by Michael Nielsen covering neural networks and deep learning concepts.
+- [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4): Complete beginner course.
 
 ## Projects to implement (Optional)
 
