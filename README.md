@@ -76,6 +76,7 @@ This section provides a summary of the topics learned throughout the labs.
 - [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html): A beginner-friendly tutorial on deep learning with PyTorch.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/): Online book by Michael Nielsen covering neural networks and deep learning concepts.
 - [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4): Complete beginner course.
+- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh): Python for beginners.
 
 ## Projects to implement (Optional)
 
